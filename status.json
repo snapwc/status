@@ -1,10 +1,10 @@
 {
   "status": "maintenance",
   "start": "2026-10-21T16:00:00Z",
-  "end": "2026-10-21T18:00:00Z",
+  "end": "2026-10-21T19:00:00Z",
   "message": {
-    "default": "We are performing urgent security maintenance. Some online services may be temporarily unavailable. Thank you for your patience.",
-    "zh-CN": "我们正在进行紧急安全维护，部分在线服务可能暂时不可用。感谢理解与耐心等待。",
-    "zh-TW": "我們正在進行緊急安全維護，部分線上服務可能暫時無法使用。感謝理解與耐心等候。"
+    "default": "We are applying security updates. Thank you for your patience.",
+    "zh-CN": "正在进行安全更新，感谢您的理解与耐心等待。",
+    "zh-TW": "正在進行安全更新，感謝您的理解與耐心等候。"
   }
 }
